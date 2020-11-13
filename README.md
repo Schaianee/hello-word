@@ -1,2 +1,2 @@
-# hello-word
-This is my hello word.
+# hello-world
+This is my hello world.
